@@ -1,2 +1,2 @@
 # EasyWeather
-Flutter practices :)
+Flutter practices.
